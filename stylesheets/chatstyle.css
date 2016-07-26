@@ -112,7 +112,7 @@ body {
   display: inline-block;
   padding: 20px;
   border-radius: 6px;
-  width: calc(100% - 85px);
+  <!--width: calc(100% - 85px);-->
   min-width: 100px;
   position: relative;
 }
